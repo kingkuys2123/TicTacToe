@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuitcoMidtermExamProject</string>
+    <string name="main_button">Play</string>
+    <string name="main_label">Tic Tac Toe</string>
+    <string name="restart_button">Restart</string>
+    <string name="x_symbol">X</string>
+    <string name="o_symbol">O</string>
+</resources>
